@@ -126,17 +126,6 @@ Interactive Excel dashboard exploring **2023 data science job salaries** across 
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=KrishnaSai315&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaSai315&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2137,50:1a3a4a,100:0d1117&height=120&section=footer" />
