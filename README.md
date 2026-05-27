@@ -122,6 +122,7 @@ Interactive Excel dashboard exploring **2023 data science job salaries** across 
 | 🎓 M.S. Data Science · GPA 3.81 / 4.0 | University of Memphis | 2024 – 2025 |
 | 🎓 B.Tech. ECE | Amrita Sai Institute of S&T | 2017 – 2021 |
 | 📜 HIPAA Certified | The HIPAA Journal | 2026 |
+| 📜 SQL | HackerRank | 2026 |
 | 📜 SQL for Data Science | UC Davis (Coursera) | 2024 |
 | 📜 Excel Skills for Business: Essentials | Macquarie University (Coursera) | 2024 |
 
