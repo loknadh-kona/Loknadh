@@ -93,7 +93,7 @@ Built a **production-grade data warehouse from scratch** (Bronze → Silver → 
 
 Uncovered a **hidden 15% delay rate** in Standard Class shipments across the Southern region using custom SQL SLA metrics. Built interactive Power BI dashboards giving logistics managers a single view to isolate bottlenecks and drive corrective action.
 
-[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/KrishnaSai315/SQL-Data-Analytics)
+[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/KrishnaSai315/supply-chain-logistics-dashboard)
 
 ---
 
