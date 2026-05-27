@@ -26,8 +26,8 @@ WHERE   name = 'Loknadh Kona';
 | Field | Value |
 |---|---|
 | 🎓 **Education** | M.S. Data Science — University of Memphis · GPA 3.81 / 4.0 |
-| 💼 **Experience** | 3+ years · SQL analytics · ETL pipelines · BI dashboards |
-| 🏢 **Past Roles** | Junior Data Scientist @ BEPEC Solutions · Systems Engineer @ Atos Global |
+| 💼 **Experience** | SQL · Python · HIPAA Certified · Analytics Projects · Real-World BI Delivery |
+| 🏢 **Past Roles** | Junior Data Scientist @ BEPEC Solutions · Systems Engineer @ Atos |
 | 📊 **Domains** | Financial services · Sales analytics · Supply chain & Logistics |
 | ⚡ **Edge** | 99%+ pipeline availability · Executive-ready dashboards that drive decisions |
 
@@ -120,7 +120,8 @@ Interactive Excel dashboard exploring **2023 data science job salaries** across 
 | Degree / Certification | Institution | Year |
 |---|---|---|
 | 🎓 M.S. Data Science · GPA 3.81 / 4.0 | University of Memphis | 2024 – 2025 |
-| 🎓 B.Tech. ECE · GPA 3.06 / 4.0 | Amrita Sai Institute of S&T | 2017 – 2021 |
+| 🎓 B.Tech. ECE | Amrita Sai Institute of S&T | 2017 – 2021 |
+| 📜 HIPAA Certified | The HIPAA Journal | 2026 |
 | 📜 SQL for Data Science | UC Davis (Coursera) | 2024 |
 | 📜 Excel Skills for Business: Essentials | Macquarie University (Coursera) | 2024 |
 
