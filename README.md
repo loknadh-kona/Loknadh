@@ -1,3 +1,4 @@
+<div align="center">
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Loknadh%20Kona&fontSize=55&fontColor=00e5ff&color=0:0d1117,100:1a3a4a&desc=Healthcare%20%7C%20Operations%20%7C%20Supply%20Chain&descAlignY=65&descSize=22&descColor=8ecae6)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=SQL+%7C+Python+%7C+Power+BI+%7C+Tableau+%7C+Excel;ETL+Pipelines+%7C+Data+Warehousing+%7C+BI+Delivery;2%2B+Years+Analytics+%26+Engineering+Experience;M.S.+Data+Science+%40+University+of+Memphis;HIPAA+Certified" alt="Typing SVG" />
@@ -25,7 +26,7 @@ WHERE   name = 'Loknadh Kona';
 |---|---|
 | 🎓 **Education** | M.S. Data Science — University of Memphis · GPA 3.81 / 4.0 |
 | 💼 **Experience** | SQL · Python · HIPAA Certified · Analytics Projects · Real-World BI Delivery |
-| 🏢 **Past Roles** | Junior Data Scientist @ BEPEC Solutions · Systems Engineer @ Atos |
+| 🏢 **Past Roles** | Junior Data Scientist Intern @ BEPEC Solutions · Systems Engineer @ Atos |
 | 📊 **Domains** | Financial services · Sales analytics · Supply chain & Logistics |
 | ⚡ **Edge** | 99%+ pipeline availability · Executive-ready dashboards that drive decisions |
 
@@ -117,7 +118,7 @@ Interactive Excel dashboard exploring **2023 data science job salaries** across 
 
 | Degree / Certification | Institution | Year |
 |---|---|---|
-| 🎓 M.S. Data Science · GPA 3.81 / 4.0 | University of Memphis | 2024 – 2025 |
+| 🎓 M.S. Data Science · GPA 3.81 / 4.0 | University of Memphis | Jan 2024 – Dec 2025 |
 | 🎓 B.Tech. ECE | Amrita Sai Institute of S&T | 2017 – 2021 |
 | 📜 HIPAA Certified | The HIPAA Journal | 2026 |
 | 📜 SQL | HackerRank | 2026 |
