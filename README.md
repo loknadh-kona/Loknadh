@@ -1,9 +1,4 @@
-<p align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a4a,100:0d2137&height=200&section=header&text=Loknadh%20Kona&fontSize=58&fontColor=00e5ff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Healthcare%2C%20Operations%20%26%20Supply%20Chain%20Analytics&descSize=22&descAlignY=60&descColor=8ecae6&animation=fadeIn"
-  />
-</p>
+![Header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Loknadh%20Kona&fontSize=55&fontColor=00e5ff&color=0:0d1117,100:1a3a4a&desc=Healthcare%20%7C%20Operations%20%7C%20Supply%20Chain&descAlignY=65&descSize=22&descColor=8ecae6)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=SQL+%7C+Python+%7C+Power+BI+%7C+Tableau+%7C+Excel;ETL+Pipelines+%7C+Data+Warehousing+%7C+BI+Delivery;2%2B+Years+Analytics+%26+Engineering+Experience;M.S.+Data+Science+%40+University+of+Memphis;HIPAA+Certified" alt="Typing SVG" />
 
