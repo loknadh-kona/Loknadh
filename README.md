@@ -77,6 +77,14 @@ WHERE   name = 'Loknadh Kona';
 
 ## 🚀 Featured Projects
 
+### 🏥 Hospital Readmission Rate Analysis — CMS Medicare Data
+> *SQL Server · Python · Power BI · DAX · CMS HRRP FY2026*
+Analyzed **30-day readmission rates across 3,055 U.S. hospitals** using CMS HRRP FY2026 data, identifying **$402.2M in avoidable excess cost**. Built a 5-page Power BI dashboard pinpointing the conditions, hospital types, and states driving the highest Medicare penalty exposure.
+
+[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/KrishnaSai315/hospital-readmission-cms-analysis)
+
+---
+
 ### 🏗️ SQL Data Warehouse & Analytics Pipeline
 > *T-SQL · Star Schema · Medallion Architecture · SQL Server*
 
