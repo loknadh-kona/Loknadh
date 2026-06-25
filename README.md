@@ -7,7 +7,7 @@
 <br/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-loknadh.kona%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:loknadh.kona@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-lvkrishna3-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lvkrishna3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lvkrishna3-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/loknadh)
 [![GitHub](https://img.shields.io/badge/GitHub-KrishnaSai315-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KrishnaSai315)
 [![Memphis TN](https://img.shields.io/badge/Memphis%2C%20TN-00b4d8?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
