@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=160&text=Loknadh%20Kona&fontSize=55&fontColor=00e5ff&color=0:0d1117,100:1a3a4a&desc=Healthcare%20Data%20Analyst%20%7C%20Clinical%2C%20Claims%20%26%20EHR%20Analytics&descAlignY=65&descSize=20&descColor=8ecae6)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=160&text=Loknadh%20Kona&fontSize=55&fontColor=00e5ff&color=0:0d1117,100:1a3a4a&desc=Healthcare%20Data%20Analyst%20%7C%20Clinical%2C%20Claims%20%26%20EHR%20Analytics&descAlignY=65&descSize=20&descColor=8ecae6&v=2)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=SQL%20%7C%20Python%20%7C%20SAS%20%7C%20Power%20BI%20%7C%20Tableau%3BClinical%20%7C%20Claims%20%7C%20EHR%20%7C%20Population%20Health%20Analytics%3B~4%20Years%20Healthcare%20Data%20Analytics%20Experience%3BMedicare%20%26%20Medicaid%20%7C%20HIPAA%20%26%20HITECH%20Compliance%3BICD%20%7C%20CPT%20%7C%20HCPCS%20%7C%20Healthcare%20Interoperability" alt="Typing SVG" />
 
