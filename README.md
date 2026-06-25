@@ -71,31 +71,48 @@ WHERE name = 'Loknadh Kona';
 
 <div align="center">
 
-**SQL & Data Engineering**
-
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![T-SQL](https://img.shields.io/badge/T--SQL-004880?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![ETL Pipelines](https://img.shields.io/badge/ETL%20Pipelines-0d6efd?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse-1a3a4a?style=for-the-badge&logo=databricks&logoColor=white)
-
-**BI & Visualization**
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel & VBA](https://img.shields.io/badge/Excel%20%26%20VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
 **Programming & Analytics**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-004C97?style=for-the-badge&logo=sas&logoColor=white)
+
+**Healthcare Data & Compliance**
+
+![EHR%20%2F%20EMR](https://img.shields.io/badge/EHR%20%2F%20EMR-0d6efd?style=for-the-badge&logoColor=white)
+![ICD%20%C2%B7%20CPT%20%C2%B7%20HCPCS](https://img.shields.io/badge/ICD%20%C2%B7%20CPT%20%C2%B7%20HCPCS-1a3a4a?style=for-the-badge&logoColor=white)
+![Medicare%20%26%20Medicaid](https://img.shields.io/badge/Medicare%20%26%20Medicaid-2b8a3e?style=for-the-badge&logoColor=white)
+![HIPAA%20%26%20HITECH](https://img.shields.io/badge/HIPAA%20%26%20HITECH-c92a2a?style=for-the-badge&logoColor=white)
+![Claims%20%26%20Clinical%20Data](https://img.shields.io/badge/Claims%20%26%20Clinical%20Data-7048e8?style=for-the-badge&logoColor=white)
+
+**Visualization & Reporting**
+
+![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power%20Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+
+**Databases & Data Management**
+
+![SQL%20Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+
+**Tools & Platforms**
+
+![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
-
----
 
 ## 🚀 Featured Projects
 
