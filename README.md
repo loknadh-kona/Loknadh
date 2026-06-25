@@ -1,6 +1,7 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=160&text=Loknadh%20Kona&fontSize=55&fontColor=00e5ff&color=0:0d1117,100:1a3a4a&desc=Healthcare%20Data%20Analyst%20%7C%20Clinical%2C%20Claims%20%26%20EHR%20Analytics&descAlignY=65&descSize=20&descColor=8ecae6&v=2)
+<h1 style="color:#00e5ff; margin-bottom:4px;">Loknadh Kona</h1>
+<h3 style="color:#8ecae6; font-weight:500; margin-top:0;">Healthcare Data Analyst &nbsp;|&nbsp; Clinical, Claims &amp; EHR Analytics</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=SQL%20%7C%20Python%20%7C%20SAS%20%7C%20Power%20BI%20%7C%20Tableau%3BClinical%20%7C%20Claims%20%7C%20EHR%20%7C%20Population%20Health%20Analytics%3B~4%20Years%20Healthcare%20Data%20Analytics%20Experience%3BMedicare%20%26%20Medicaid%20%7C%20HIPAA%20%26%20HITECH%20Compliance%3BICD%20%7C%20CPT%20%7C%20HCPCS%20%7C%20Healthcare%20Interoperability" alt="Typing SVG" />
 
@@ -103,7 +104,7 @@ WHERE name = 'Loknadh Kona';
 
 Analyzed **30-day readmission rates across 3,055 U.S. hospitals** using CMS HRRP FY2026 data, identifying **$402.2M in avoidable excess cost**. Built a 5-page Power BI dashboard pinpointing the conditions, hospital types, and states driving the highest Medicare penalty exposure.
 
-[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/KrishnaSai315/hospital-readmission-cms-analysis)
+[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/loknadh-kona/hospital-readmission-cms-analysis)
 
 ---
 
@@ -112,8 +113,8 @@ Analyzed **30-day readmission rates across 3,055 U.S. hospitals** using CMS HRRP
 
 Built a **production-grade data warehouse from scratch** (Bronze → Silver → Gold layers). Engineered 13 advanced analytical scripts covering customer segmentation (VIP / Regular / New), product rankings, and time-series revenue analysis (YoY & MoM) using RANK, DENSE_RANK, LAG, and window functions.
 
-[![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/KrishnaSai315/SQL-DataWareHouse_Project)
-[![Data Analytics](https://img.shields.io/badge/Data%20Analytics%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/KrishnaSai315/SQL-Data-Analytics)
+[![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/loknadh-kona/SQL-DataWareHouse_Project)
+[![Data Analytics](https://img.shields.io/badge/Data%20Analytics%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/loknadh-kona/SQL-Data-Analytics)
 
 ---
 
@@ -122,7 +123,7 @@ Built a **production-grade data warehouse from scratch** (Bronze → Silver → 
 
 Uncovered a **hidden 15% delay rate** in Standard Class shipments across the Southern region using custom SQL SLA metrics. Built interactive Power BI dashboards giving logistics managers a single view to isolate bottlenecks and drive corrective action.
 
-[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/KrishnaSai315/supply-chain-logistics-dashboard)
+[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/loknadh-kona/supply-chain-logistics-dashboard)
 
 ---
 
@@ -131,7 +132,7 @@ Uncovered a **hidden 15% delay rate** in Standard Class shipments across the Sou
 
 Interactive Excel dashboard analyzing **1,000+ call records** with dynamic slicers, KPI tracking for operational analytics, rep performance, and regional breakdowns — enabling fast, data-driven service decisions.
 
-[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/KrishnaSai315/customer-service-performance-dashboard)
+[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/loknadh-kona/customer-service-performance-dashboard)
 
 ---
 
@@ -140,7 +141,7 @@ Interactive Excel dashboard analyzing **1,000+ call records** with dynamic slice
 
 Interactive Excel dashboard exploring **2023 data science job salaries** across 9 roles, 50+ countries, and 5 schedule types — built with advanced array formulas and geographic map charts for instant global insight.
 
-[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/KrishnaSai315/Data-Science-Salary-Dashboard)
+[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/loknadh-kona/Data-Science-Salary-Dashboard)
 
 ---
 
@@ -159,7 +160,7 @@ Interactive Excel dashboard exploring **2023 data science job salaries** across 
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2137,50:1a3a4a,100:0d1117&height=120&section=footer" />
+
 
 *"Data is not just numbers — it's the story behind every decision."*
 
