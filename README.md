@@ -1,13 +1,13 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=160&text=Loknadh%20Kona&fontSize=55&fontColor=00e5ff&color=0:0d1117,100:1a3a4a&desc=Data%20Analyst%20and%20Scientist%20%7C%20Healthcare,%20Operations%20and%20Supply%20Chain%20Analytics&descAlignY=65&descSize=20&descColor=8ecae6)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=160&text=Loknadh%20Kona&fontSize=55&fontColor=00e5ff&color=0:0d1117,100:1a3a4a&desc=Healthcare%20Data%20Analyst%20%7C%20Clinical%2C%20Claims%20%26%20EHR%20Analytics&descAlignY=65&descSize=20&descColor=8ecae6)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=SQL+%7C+Python+%7C+Power+BI+%7C+Tableau+%7C+Excel;ETL+Pipelines+%7C+Data+Warehousing+%7C+BI+Delivery;2%2B+Years+Analytics+%26+Engineering+Experience;M.S.+Data+Science+%40+University+of+Memphis;HIPAA+Certified" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=SQL%20%7C%20Python%20%7C%20SAS%20%7C%20Power%20BI%20%7C%20Tableau%3BClinical%20%7C%20Claims%20%7C%20EHR%20%7C%20Population%20Health%20Analytics%3B~4%20Years%20Healthcare%20Data%20Analytics%20Experience%3BMedicare%20%26%20Medicaid%20%7C%20HIPAA%20%26%20HITECH%20Compliance%3BICD%20%7C%20CPT%20%7C%20HCPCS%20%7C%20Healthcare%20Interoperability" alt="Typing SVG" />
 
 <br/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-loknadh.kona%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:loknadh.kona@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-lvkrishna3-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/loknadh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-loknadh-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loknadh)
 [![GitHub](https://img.shields.io/badge/GitHub-KrishnaSai315-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KrishnaSai315)
 [![Memphis TN](https://img.shields.io/badge/Memphis%2C%20TN-00b4d8?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
@@ -15,21 +15,24 @@
 
 ---
 
+---
+
 ## About Me
 
 ```sql
-SELECT  name, title, experience, edge
-FROM    analysts
-WHERE   name = 'Loknadh Kona';
+SELECT name, title, experience, edge
+FROM analysts
+WHERE name = 'Loknadh Kona';
 ```
 
 | Field | Value |
 |---|---|
-| 🎓 **Education** | M.S. Data Science — University of Memphis · GPA 3.81 / 4.0 |
-| 💼 **Experience** | SQL · Python · HIPAA Certified · Analytics Projects · Real-World BI Delivery |
-| 🏢 **Past Roles** | Junior Data Scientist Intern @ BEPEC Solutions · Systems Engineer @ Atos |
-| 📊 **Domains** | Financial services · Sales analytics · Supply chain & Logistics |
-| ⚡ **Edge** | 99%+ pipeline availability · Executive-ready dashboards that drive decisions |
+| 🎯 **Role** | Healthcare Data Analyst — Clinical, Claims & EHR Analytics |
+| 💼 **Experience** | ~4 years · Python · SQL · SAS · Tableau · Power BI · HIPAA Certified |
+| 🏢 **Current** | Healthcare Data Analyst @ Cardinal Health (Aug 2025 – Present) |
+| 🏢 **Previously** | Healthcare Data Analyst @ Metasystems (Jan 2021 – Dec 2023) |
+| 📊 **Domains** | Population health · Reimbursement optimization · Operational performance |
+| ⚡ **Edge** | Turning complex clinical & claims data into reporting accuracy and better outcomes |
 
 ---
 
@@ -37,13 +40,31 @@ WHERE   name = 'Loknadh Kona';
 
 | Metric | Result | How |
 |---|---|---|
-| Manual reporting effort | **↓ 30%** | Self-service Power BI & Tableau dashboards |
-| Downstream data errors | **↓ 25%** | Automated SQL + Python anomaly detection |
-| Business-review prep time | **↓ 30%** | Excel VBA macros |
-| Financial pipeline uptime | **99%+** | SLA ops at Atos Global (Franklin Templeton, Cummins) |
-| Hidden shipment delay found | **15% delay rate** | SQL-engineered Days-to-Ship SLA metrics |
+| Reporting performance | **↑ 35%** | Optimized SQL & Snowflake claims data models |
+| Cost optimization | **↑ 18%** | Python EDA on Medicare & Medicaid utilization |
+| Claim processing delays | **↓ 22%** | Interactive Power BI KPI dashboards |
+| Data accuracy & consistency | **↑ 30%** | SQL + Python data quality frameworks |
+| Audit discrepancies | **↓ 25%** | HIPAA & HITECH-aligned regulatory reporting |
+| Manual reporting effort | **↓ 40%** | Automated workflows with Python & Power Query |
 
 ---
+
+## 💼 Experience
+
+### 🏥 Cardinal Health — Healthcare Data Analyst
+> *USA · Aug 2025 – Present*
+- Optimized complex SQL (SQL Server, PostgreSQL) and Snowflake data models on large-scale claims datasets, improving reporting performance by **35%**.
+- Performed advanced EDA in Python (Pandas, NumPy, SciPy) on Medicare & Medicaid data, contributing to an **18%** cost-optimization gain.
+- Built interactive Power BI dashboards (claims volume, reimbursement trends, denial rates), cutting claim processing delays by **22%**.
+- Implemented SQL + Python data quality frameworks, improving accuracy and consistency by **30%**, and automated reporting workflows to reduce manual effort by **40%**.
+- Delivered HIPAA & HITECH-compliant regulatory reports, reducing audit discrepancies by **25%**.
+
+### 🏥 Metasystems — Healthcare Data Analyst
+> *India · Jan 2021 – Dec 2023*
+- Managed EHR and claims analytics using SQL, SAS, and Advanced Excel, improving reporting efficiency by **25%**.
+- Developed Tableau dashboards and executive reporting on clinical performance and reimbursement metrics, reducing prep time by **40%**.
+- Performed data cleaning, wrangling, and QA across Oracle & MySQL, improving data integrity by **28%**.
+- Validated ICD, CPT, and HCPCS coding accuracy, reducing coding-related data exceptions by **22%**; supported successful audits with zero major findings.
 
 ## 🛠️ Tech Stack
 
