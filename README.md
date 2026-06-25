@@ -1,7 +1,7 @@
 <div align="center">
 
-<h1 style="color:#00e5ff; margin-bottom:4px;">Loknadh Kona</h1>
-<h3 style="color:#8ecae6; font-weight:500; margin-top:0;">Healthcare Data Analyst &nbsp;|&nbsp; Clinical, Claims &amp; EHR Analytics</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=46&pause=10000&color=00E5FF&center=true&vCenter=true&width=700&height=70&lines=Loknadh%20Kona" alt="Loknadh Kona" />
+<h3>🏥 Healthcare Data Analyst &nbsp;·&nbsp; Clinical, Claims &amp; EHR Analytics</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=SQL%20%7C%20Python%20%7C%20SAS%20%7C%20Power%20BI%20%7C%20Tableau%3BClinical%20%7C%20Claims%20%7C%20EHR%20%7C%20Population%20Health%20Analytics%3B~4%20Years%20Healthcare%20Data%20Analytics%20Experience%3BMedicare%20%26%20Medicaid%20%7C%20HIPAA%20%26%20HITECH%20Compliance%3BICD%20%7C%20CPT%20%7C%20HCPCS%20%7C%20Healthcare%20Interoperability" alt="Typing SVG" />
 
