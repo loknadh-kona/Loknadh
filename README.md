@@ -82,11 +82,11 @@ WHERE name = 'Loknadh Kona';
 
 **Healthcare Data & Compliance**
 
-![EHR%20%2F%20EMR](https://img.shields.io/badge/EHR%20%2F%20EMR-0d6efd?style=for-the-badge&logoColor=white)
-![ICD%20%C2%B7%20CPT%20%C2%B7%20HCPCS](https://img.shields.io/badge/ICD%20%C2%B7%20CPT%20%C2%B7%20HCPCS-1a3a4a?style=for-the-badge&logoColor=white)
-![Medicare%20%26%20Medicaid](https://img.shields.io/badge/Medicare%20%26%20Medicaid-2b8a3e?style=for-the-badge&logoColor=white)
-![HIPAA%20%26%20HITECH](https://img.shields.io/badge/HIPAA%20%26%20HITECH-c92a2a?style=for-the-badge&logoColor=white)
-![Claims%20%26%20Clinical%20Data](https://img.shields.io/badge/Claims%20%26%20Clinical%20Data-7048e8?style=for-the-badge&logoColor=white)
+![EHR / EMR](https://img.shields.io/badge/EHR%20%2F%20EMR-0d6efd?style=for-the-badge&logoColor=white)
+![ICD · CPT · HCPCS](https://img.shields.io/badge/ICD%20%C2%B7%20CPT%20%C2%B7%20HCPCS-1a3a4a?style=for-the-badge&logoColor=white)
+![Medicare & Medicaid](https://img.shields.io/badge/Medicare%20%26%20Medicaid-2b8a3e?style=for-the-badge&logoColor=white)
+![HIPAA & HITECH](https://img.shields.io/badge/HIPAA%20%26%20HITECH-c92a2a?style=for-the-badge&logoColor=white)
+![Claims & Clinical Data](https://img.shields.io/badge/Claims%20%26%20Clinical%20Data-7048e8?style=for-the-badge&logoColor=white)
 
 **Visualization & Reporting**
 
