@@ -107,6 +107,15 @@ WHERE name = 'Loknadh Kona';
 
 ## 🚀 Featured Projects
 
+### 🧠 EEG Eye-State Validation — Trusting Your Metrics
+> *Python · Jupyter · scikit-learn · Random Forest · Permutation Testing*
+
+A clinical-grade **validation case study**: the same Random Forest on the same EEG signal data scored **81% → 51% → 37%** depending only on *how honestly it was tested*. Demonstrates **leakage-aware train/test splits, baseline-anchored benchmarking, effect sizes, and a permutation test** — then reports an **honest null result**. The exact rigor that separates a trustworthy clinical metric from a misleading one in healthcare analytics.
+
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loknadh-kona/EEG-Eye-State-Validation)
+
+---
+
 ### 🏥 Hospital Readmission Rate Analysis — CMS Medicare Data
 > *SQL Server · Python · Power BI · DAX · CMS HRRP FY2026*
 
