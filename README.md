@@ -53,7 +53,7 @@ WHERE name = 'Loknadh Kona';
 ## 💼 Experience
 
 ### 🏥 Cardinal Health — Healthcare Data Analyst
-> *USA · Aug 2025 – Present*
+> *· Aug 2025 – Present*
 - Optimized complex SQL (SQL Server, PostgreSQL) and Snowflake data models on large-scale claims datasets, improving reporting performance by **35%**.
 - Performed advanced EDA in Python (Pandas, NumPy, SciPy) on Medicare & Medicaid data, contributing to an **18%** cost-optimization gain.
 - Built interactive Power BI dashboards (claims volume, reimbursement trends, denial rates), cutting claim processing delays by **22%**.
@@ -61,7 +61,7 @@ WHERE name = 'Loknadh Kona';
 - Delivered HIPAA & HITECH-compliant regulatory reports, reducing audit discrepancies by **25%**.
 
 ### 🏥 Metasystems — Healthcare Data Analyst
-> *India · Jan 2021 – Dec 2023*
+> *· Jan 2021 – Dec 2023*
 - Managed EHR and claims analytics using SQL, SAS, and Advanced Excel, improving reporting efficiency by **25%**.
 - Developed Tableau dashboards and executive reporting on clinical performance and reimbursement metrics, reducing prep time by **40%**.
 - Performed data cleaning, wrangling, and QA across Oracle & MySQL, improving data integrity by **28%**.
